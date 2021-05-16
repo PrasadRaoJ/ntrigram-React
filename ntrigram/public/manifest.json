@@ -1,0 +1,9 @@
+{
+  "short_name": "nTrigram",
+  "name": "n Trigrams Web project",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
